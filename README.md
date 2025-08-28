@@ -38,8 +38,8 @@ The dataset used in this project is sourced from [insert dataset source here]. I
 
 ## 📈 Results
 
-- **Initial Model**: Logistic Regression with default settings achieved a recall score of **0.71**.  
-- **Model Improvements**: Further tuning and experimentation led to enhanced model performance.  
+- **Initial Model**: Logistic Regression with default settings achieved a recall score of **0.71** of cross validation scorea and **0.75** of train/test split recall.
+- **Model Improvements**: Further tuning and experimentation led to enhanced model performance (0.74 cross validation recall score, 0.82 train/test split recall)
 
 ## Key Insights
 
