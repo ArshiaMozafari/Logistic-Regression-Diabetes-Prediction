@@ -38,7 +38,7 @@ The dataset used in this project is sourced from [insert dataset source here]. I
 
 ## 📈 Results
 
-- **Initial Model**: Logistic Regression with default settings achieved a recall score of **0.73**.  
+- **Initial Model**: Logistic Regression with default settings achieved a recall score of **0.71**.  
 - **Model Improvements**: Further tuning and experimentation led to enhanced model performance.  
 
 ## Key Insights
